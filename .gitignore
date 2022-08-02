@@ -22,7 +22,7 @@
 # debug
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
+dapp-basic/yarn-error.log
 .pnpm-debug.log*
 
 # local env files
@@ -33,3 +33,5 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+/cache/
+/artifacts/
